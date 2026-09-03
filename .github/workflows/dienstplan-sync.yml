@@ -2,10 +2,8 @@ name: Dienstplan Sync
 
 on:
   schedule:
-    # alle 12 Stunden (UTC). Oefter bringt nichts, weil Google Kalender
-    # externe ICS-Abos ohnehin nur alle 8-24 Stunden neu einliest.
-  
-    - cron: "17 * * * *"
+    # alle 15 Minuten, jeden Tag - keine Kosten bei public repo.
+    - cron: "*/15 * * * *"
 
   workflow_dispatch: {}
 
