@@ -2,8 +2,8 @@ name: Dienstplan Sync
 
 on:
   schedule:
-    # alle 15 Minuten, jeden Tag - keine Kosten bei public repo.
-    - cron: "*/15 * * * *"
+    # alle 60 Minuten, jeden Tag - keine Kosten bei public repo.
+    - cron: "17 * * * *"
 
   workflow_dispatch: {}
 
