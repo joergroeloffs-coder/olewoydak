@@ -68,5 +68,15 @@
     "revision": 1,
     "sequence": 0,
     "summary": "Dienst auf UTHLANDE"
+  },
+  "2026-W41": {
+    "category": "Freie Tage",
+    "date_from": "2026-10-02",
+    "date_to": "2026-10-09",
+    "file": "41KW2026.pdf",
+    "mtime": "2026-09-09 05:51",
+    "revision": 0,
+    "sequence": 0,
+    "summary": "Freie Tage"
   }
 }
