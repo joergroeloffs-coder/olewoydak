@@ -78,5 +78,15 @@
     "revision": 1,
     "sequence": 1,
     "summary": "Freie Tage"
+  },
+  "2026-W42": {
+    "category": "NORDERAUE",
+    "date_from": "2026-10-09",
+    "date_to": "2026-10-16",
+    "file": "42KW2026.pdf",
+    "mtime": "2026-09-16 07:56",
+    "revision": 0,
+    "sequence": 0,
+    "summary": "Dienst auf NORDERAUE"
   }
 }
