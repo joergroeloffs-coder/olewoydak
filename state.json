@@ -108,5 +108,15 @@
     "revision": 0,
     "sequence": 0,
     "summary": "Urlaub"
+  },
+  "2026-W45": {
+    "category": "URLAUB",
+    "date_from": "2026-10-30",
+    "date_to": "2026-11-06",
+    "file": "45KW2026.pdf",
+    "mtime": "2026-10-06 07:52",
+    "revision": 0,
+    "sequence": 0,
+    "summary": "Urlaub"
   }
 }
