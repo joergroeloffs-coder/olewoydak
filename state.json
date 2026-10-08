@@ -83,10 +83,10 @@
     "category": "NORDERAUE",
     "date_from": "2026-10-09",
     "date_to": "2026-10-16",
-    "file": "42KW2026 2. Änderung.pdf",
-    "mtime": "2026-09-27 22:55",
-    "revision": 2,
-    "sequence": 2,
+    "file": "42KW2026 3.Aenderung.pdf",
+    "mtime": "2026-10-08 10:05",
+    "revision": 3,
+    "sequence": 3,
     "summary": "Dienst auf NORDERAUE"
   },
   "2026-W43": {
@@ -113,10 +113,10 @@
     "category": "URLAUB",
     "date_from": "2026-10-30",
     "date_to": "2026-11-06",
-    "file": "45KW2026 1.Aenderung.pdf",
-    "mtime": "2026-10-07 17:35",
-    "revision": 1,
-    "sequence": 1,
+    "file": "45KW2026 2. Aenderung.pdf",
+    "mtime": "2026-10-08 08:56",
+    "revision": 2,
+    "sequence": 2,
     "summary": "Urlaub"
   }
 }
