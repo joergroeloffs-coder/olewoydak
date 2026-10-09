@@ -93,30 +93,30 @@
     "category": "Freie Tage",
     "date_from": "2026-10-16",
     "date_to": "2026-10-23",
-    "file": "43KW2026 1. Änderung.pdf",
-    "mtime": "2026-09-27 22:58",
-    "revision": 1,
-    "sequence": 1,
+    "file": "43KW2026 2.Aenderung.pdf",
+    "mtime": "2026-10-09 15:32",
+    "revision": 2,
+    "sequence": 2,
     "summary": "Freie Tage"
   },
   "2026-W44": {
     "category": "URLAUB",
     "date_from": "2026-10-23",
     "date_to": "2026-10-30",
-    "file": "44KW2026.pdf",
-    "mtime": "2026-09-29 20:34",
-    "revision": 0,
-    "sequence": 0,
+    "file": "44KW2026 1.Aenderung.pdf",
+    "mtime": "2026-10-09 15:33",
+    "revision": 1,
+    "sequence": 1,
     "summary": "Urlaub"
   },
   "2026-W45": {
     "category": "URLAUB",
     "date_from": "2026-10-30",
     "date_to": "2026-11-06",
-    "file": "45KW2026 2. Aenderung.pdf",
-    "mtime": "2026-10-08 08:56",
-    "revision": 2,
-    "sequence": 2,
+    "file": "45KW2026 3.Aenderung.pdf",
+    "mtime": "2026-10-09 15:33",
+    "revision": 3,
+    "sequence": 3,
     "summary": "Urlaub"
   }
 }
