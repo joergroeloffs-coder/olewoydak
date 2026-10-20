@@ -128,5 +128,15 @@
     "revision": 0,
     "sequence": 0,
     "summary": "Urlaub"
+  },
+  "2026-W47": {
+    "category": "UTHLANDE",
+    "date_from": "2026-11-13",
+    "date_to": "2026-11-20",
+    "file": "47KW2026.pdf",
+    "mtime": "2026-10-19 08:47",
+    "revision": 0,
+    "sequence": 0,
+    "summary": "Dienst auf UTHLANDE"
   }
 }
