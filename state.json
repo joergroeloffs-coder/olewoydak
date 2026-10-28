@@ -138,5 +138,15 @@
     "revision": 1,
     "sequence": 1,
     "summary": "Dienst auf UTHLANDE"
+  },
+  "2026-W48": {
+    "category": "Freie Tage",
+    "date_from": "2026-11-20",
+    "date_to": "2026-11-27",
+    "file": "48KW2026.pdf",
+    "mtime": "2026-10-28 05:18",
+    "revision": 0,
+    "sequence": 0,
+    "summary": "Freie Tage"
   }
 }
