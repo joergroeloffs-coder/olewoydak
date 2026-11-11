@@ -158,5 +158,15 @@
     "revision": 2,
     "sequence": 1,
     "summary": "Dienst auf UTHLANDE"
+  },
+  "2026-W50": {
+    "category": "Freie Tage",
+    "date_from": "2026-12-04",
+    "date_to": "2026-12-11",
+    "file": "50KW2026.pdf",
+    "mtime": "2026-11-11 05:41",
+    "revision": 0,
+    "sequence": 0,
+    "summary": "Freie Tage"
   }
 }
