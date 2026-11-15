@@ -153,8 +153,48 @@
     "category": "Freie Tage",
     "date_from": "2026-12-04",
     "date_to": "2026-12-11",
-    "file": "50KW2026.pdf",
-    "mtime": "2026-11-11 05:41",
+    "file": "50KW2026 1. Änderung.pdf",
+    "mtime": "2026-11-15 11:47",
+    "revision": 1,
+    "sequence": 1,
+    "summary": "Freie Tage"
+  },
+  "2026-W51": {
+    "category": "UTHLANDE",
+    "date_from": "2026-12-11",
+    "date_to": "2026-12-18",
+    "file": "51KW2026.pdf",
+    "mtime": "2026-11-15 11:52",
+    "revision": 0,
+    "sequence": 0,
+    "summary": "Dienst auf UTHLANDE"
+  },
+  "2026-W52": {
+    "category": "Freie Tage",
+    "date_from": "2026-12-18",
+    "date_to": "2026-12-23",
+    "file": "52KW2026 1. Änderung.pdf",
+    "mtime": "2026-11-15 12:09",
+    "revision": 1,
+    "sequence": 0,
+    "summary": "Freie Tage"
+  },
+  "2026-W53": {
+    "category": "UTHLANDE",
+    "date_from": "2026-12-23",
+    "date_to": "2026-12-30",
+    "file": "53KW2026 1. Änderung.pdf",
+    "mtime": "2026-11-15 12:11",
+    "revision": 1,
+    "sequence": 0,
+    "summary": "Dienst auf UTHLANDE"
+  },
+  "2027-W01": {
+    "category": "Freie Tage",
+    "date_from": "2026-12-30",
+    "date_to": "2027-01-08",
+    "file": "01KW2027.pdf",
+    "mtime": "2026-11-15 12:04",
     "revision": 0,
     "sequence": 0,
     "summary": "Freie Tage"
